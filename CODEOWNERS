@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Aman-Mondal
+/src/backend/database.py      @Aman-Mondal
+/src/backend/routers/auth.py  @Aman-Mondal
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Aman-Mondal
